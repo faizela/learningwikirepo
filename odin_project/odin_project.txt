@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-26T16:17:04+01:00
+
+====== odin project ======
+Created Saturday 26 July 2025
+@dev
+
+# Odin Project - JavaScript Track
+
+## Goals
+[ ] Understand ES6+ features deeply 
+
+## Resources
+- [The Odin Project - JS ](https://www.theodinproject.com/paths/full-stack-javascript)
+- [Mozilla JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## Notes
+# Use code snippets here with triple backticks
+# Link to subpages for projects and concepts
+
+
+
+
+
+
+
+
+---
+
+## Projects ## make a zim file then add double brackets here to link
+## around project name like Calculator_Project
+
+
+---
+
+## Concepts
+- [[JavaScript_Basics]]
+- [[ES6_Features]]
+
+
+
+

@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-07-30T13:21:23+01:00
+
+====== odin project ======
+Created Wednesday 30 July 2025wcv   
+
+
+Sun 10 Aug 2025 23:45
+
+i learnt about colspan and rowspan 
+why use scope for table header
+ cells 
+ it helps screen readers to explain what header is for 
+
+i also the did quick learn about
+how  explicit way of setting id and headers 
+something i highly unlikely use 
+why because too much markup more likely for error and im a lazy guy 
+
+
