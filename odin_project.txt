@@ -8,6 +8,8 @@ Created Wednesday 30 July 2025wcv
 
 Sun 10 Aug 2025 23:45
 
+==== Tables advanced ====
+
 i learnt about colspan and rowspan 
 why use scope for table header
  cells 
