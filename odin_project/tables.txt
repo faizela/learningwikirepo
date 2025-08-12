@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-08-12T17:20:13+01:00
+
+====== tables ======
+Created Tuesday 12 August 2025
+
+
+Sun 10 Aug 2025 23:45
+
+==== Tables advanced ====
+
+i learnt about colspan and rowspan 
+why use scope for table header
+ cells 
+ it helps screen readers to explain what header is for 
+
+i also the did quick learn about
+how  explicit way of setting id and headers 
+something i highly unlikely use 
+why because too much markup more likely for error and inefficient imo
+
+
+Tue 12 Aug 2025
+
+Read html table element guide by csstricks
+
+reviewed tables 
+
+learned when to  use tables such as tab data and email layout and spreadsheets
+
+learned when not use it such as layout css grid and flex is better
+
+learned why we use semantic  table  elements for seo and accessibility
+
