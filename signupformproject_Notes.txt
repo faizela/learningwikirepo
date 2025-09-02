@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-09-02T16:54:23+01:00
+
+====== signupformproject Notes ======
+Created Tuesday 02 September 2025
+
+
+Tue 2/9/25
+
+i learnt that bg image in div doesnt show unless given width and height while body element can
+
+summary 
+body fills the whole browser window by default.
+Other elements need explicit size or content to display a background image.
+
+

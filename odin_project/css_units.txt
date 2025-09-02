@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-08-23T21:54:02+01:00
+
+====== css units ======
+Created Saturday 23 August 2025
+
+Date 23/8/2025
+
+what i learned
+absoulute units 
+
+while relative
