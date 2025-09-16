@@ -7,7 +7,7 @@ Created Tuesday 16 September 2025
 
 Tuesday 16 september 2025
 
-time: 8-11 pm
+time: 8.11 pm
 Learning kaplay basics
 
 browsing the kaplay docs reading the basics part completed the installation page and im on the basic concepts page
@@ -20,7 +20,7 @@ scenes are the acts
 game objects are the actors
 components  are the scripts
 events is not mentioned in analogy ig we figure it out when we reach it
-
+f
 
 game objects are the actors the basic units in kaplay
 
@@ -28,6 +28,20 @@ game objects are the actors the basic units in kaplay
 completed game objects part in basic concepts page 
 
 ^^^^Checkpoint^^^^
+
+tue 16 sept 2025 - time 9.48 pm
+
+componets are the actions or features of the game objects such as how it looks 
+
+or how to move and what it should do 
+
+events are used  to check when a certain action has happened like a btn clicked  and you can write code to respond on that certain moment i.e event
+
+completed basic concepts
+
+^^^^ Checkpoint Game objects page ^^^^^
+
+
 
 
 
