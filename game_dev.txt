@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2025-09-16T20:11:17+01:00
+
+====== game dev ======
+Created Tuesday 16 September 2025
+
+Tuesday 16 september 2025
+
+time: 8-11 pm
+Learning kaplay basics
+
+browsing the kaplay docs reading the basics part completed the installation page and im on the basic concepts page
+
+completed game initilzation part 
+
+kaplay says to get started with kaplay i have to know 4 parts which are scene game objects components and events
+
+scenes are the acts 
+game objects are the actors
+components  are the scripts
+events is not mentioned in analogy ig we figure it out when we reach it
+
+
+game objects are the actors the basic units in kaplay
+
+
+completed game objects part in basic concepts page 
+
+^^^^Checkpoint^^^^
+
+
+
+

@@ -10,7 +10,7 @@ Created Saturday 26 July 2025
 - [[odin_project]]
 - [[linux_master]]
 - [[maths_mastery]]
-- [[music_keyboard]]
+- [[rockjam 49 ekeyboard]]
 - [[game_dev]]
 - [[general_notes]]
 
